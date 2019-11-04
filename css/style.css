@@ -1,0 +1,43 @@
+/* Styles for Project5 */
+
+body{
+    background-color: blanchedalmond;
+    letter-spacing: .5px; 
+    line-height: 1.5;
+    padding: 10%
+}
+
+h1 {
+    color:burlywood;
+    font-family: trailmade,script;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50pt
+}
+
+h2{
+    color:burlywood;
+    font-weight: 500;
+}
+
+h3{
+    color: chocolate;
+}
+
+img {
+    max-width:100%;
+}
+
+ul{
+    margin-bottom: 2rem;
+}
+
+ul1{
+    color: darkgrey; 
+    font-size: 5pt;  
+}
+
+p{
+    color: darkgrey; 
+    font-size: 5pt; 
+}
